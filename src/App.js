@@ -31,7 +31,7 @@ class App extends Component {
    render() {
      return (
        <div>
-         Hello World
+         My Favorite Girls
          <ListContacts contacts={contacts} />
        </div>
      )
