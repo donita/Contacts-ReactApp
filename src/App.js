@@ -8,22 +8,22 @@ import ListContacts from './ListContacts' // import the list contacts
 
 const contacts = [   //map over to display list of contacts
   {
-    "id": "ryan",
-    "name": "Ryan Florence",
-    "email": "ryan@reacttraining.com",
-    "avatarURL": "http://localhost:5001/ryan.jpg"
+    "id": "Dada",
+    "name": "Kidada Jones",
+    "email": "kidada@kidadajones.com",
+    "avatarURL": "http://localhost:5001/kidada.jpg"
   },
   {
-    "id": "michael",
-    "name": "Michael Jackson",
-    "email": "michael@reacttraining.com",
-    "avatarURL": "http://localhost:5001/michael.jpg"
+    "id": "Bow",
+    "name": "Rainbow Johnson",
+    "email": "rainbow@rainbowjohnsons.com",
+    "avatarURL": "http://localhost:5001/rainbow.jpg"
   },
   {
-    "id": "tyler",
-    "name": "Tyler McGinnis",
-    "email": "tyler@reacttraining.com",
-    "avatarURL": "http://localhost:5001/tyler.jpg"
+    "id": "Tiff",
+    "name": "Tiffany Dubois",
+    "email": "tiffany@thedubois.com",
+    "avatarURL": "http://localhost:5001/dubois.jpg"
   }
 ]
 
